@@ -6,7 +6,7 @@
 💻 Proficient in a wide range of penetration testing tools
 
 ### 🚀 Personal Projects
-- [GoMap](https://github.com/aidanfora/GoMap): Simple TCP Port Scanner built in Go, to practice concurrent programming.
+- [GoMap](https://github.com/aidanfora/GoMap): Simple TCP Port Scanner built in Go, to practice concurrent programming
 - [AutomatePingCastle](https://github.com/aidanfora/AutomatePingCastle): Simple Powershell script for automating Active Directory security scans with PingCastle
 <!--
 **aidanfora/aidanfora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
