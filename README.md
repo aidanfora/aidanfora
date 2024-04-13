@@ -5,9 +5,10 @@
 🚩 Avid CTF Player on HackTheBox <img src="https://raw.githubusercontent.com/aidanfora/aidanfora/main/assets/hackthebox-color.svg" width="15" alt="HackTheBox Logo"> and TryHackMe <img src="https://raw.githubusercontent.com/aidanfora/aidanfora/main/assets/tryhackme-color.svg" width="15" alt="TryHackMe Logo"> <br>
 💻 Proficient in a wide range of penetration testing tools
 
-### 🚀 Personal Projects
+### 🚀 Relevant Projects
 - [GoMap](https://github.com/aidanfora/GoMap): Simple TCP Port Scanner built in Go, to practice concurrent programming
 - [AutomatePingCastle](https://github.com/aidanfora/AutomatePingCastle): Simple Powershell script for automating Active Directory security scans with PingCastle
+- [Phishermen's Cove](https://github.com/aidanfora/Phishermens-Cove): Applied simple data analytics and machine learning techniques to identify phishing websites based on URL features
 <!--
 **aidanfora/aidanfora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
