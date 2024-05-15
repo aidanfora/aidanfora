@@ -7,6 +7,7 @@
 
 ### 🚀 Relevant Projects
 - [GoMap](https://github.com/aidanfora/GoMap): Simple TCP Port Scanner built in Go, to practice concurrent programming
+- [go-memecats](https://github.com/aidanfora/go-memecats): Go-based shellcode runner/wrapper for mimikatz with anti-virus evasion
 - [AutomatePingCastle](https://github.com/aidanfora/AutomatePingCastle): Simple Powershell script for automating Active Directory security scans with PingCastle
 - [Phishermen's Cove](https://github.com/aidanfora/Phishermens-Cove): Applied data analytics and machine learning techniques to identify phishing websites based on URL features
 <!--
