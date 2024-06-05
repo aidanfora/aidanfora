@@ -6,11 +6,15 @@
 💻 Proficient in a wide range of penetration testing tools
 
 ### 🚀 Relevant Projects
-- [GoMap](https://github.com/aidanfora/GoMap): Simple TCP Port Scanner built in Go, to practice concurrent programming
-- [go-memecats](https://github.com/aidanfora/go-memecats): Go-based shellcode runner/wrapper for mimikatz with anti-virus evasion
-- [deGomPyle](https://github.com/aidanfora/deGomPyle): Set of Ghidra Python scripts for aiding in decompiling and reverse engineering Go binaries
-- [AutomatePingCastle](https://github.com/aidanfora/AutomatePingCastle): Simple Powershell script for automating Active Directory security scans with PingCastle
-- [Phishermen's Cove](https://github.com/aidanfora/Phishermens-Cove): Applied data analytics and machine learning techniques to identify phishing websites based on URL features
+| Project | Description |
+|--------------|-------------|
+| [GoMap](https://github.com/aidanfora/GoMap) | A simple TCP port scanner built in Go, to practice concurrent programming. |
+| [go-memecats](https://github.com/aidanfora/go-memecats) | A Go-based shellcode runner/wrapper for Mimikatz with anti-virus evasion techniques. |
+| [deGomPyle](https://github.com/aidanfora/deGomPyle) | A set of Ghidra Python scripts to assist in decompiling and reverse engineering Go binaries. |
+| [AutomatePingCastle](https://github.com/aidanfora/AutomatePingCastle) | A PowerShell script to automate Active Directory security scans using PingCastle. |
+| [Phishermen's Cove](https://github.com/aidanfora/Phishermens-Cove) | Utilises data analytics and machine learning to identify phishing websites based on URL features. |
+
+
 <!--
 **aidanfora/aidanfora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
