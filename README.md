@@ -3,7 +3,8 @@
 ### 👋 Hello there! I'm Aidan :D
 🔒 Aspiring Penetration Tester & Cybersecurity Enthusiast <br>
 🚩 Avid CTF Player on HackTheBox <img src="https://raw.githubusercontent.com/aidanfora/aidanfora/main/assets/hackthebox-color.svg" width="15" alt="HackTheBox Logo"> and TryHackMe <img src="https://raw.githubusercontent.com/aidanfora/aidanfora/main/assets/tryhackme-color.svg" width="15" alt="TryHackMe Logo"> <br>
-💻 Proficient in a wide range of penetration testing tools
+💻 Proficient in a wide range of penetration testing tools <br>
+👓 Currently exploring Malware Analysis and Reverse Engineering
 
 ### 🚀 Relevant Projects
 | Project | Description |
